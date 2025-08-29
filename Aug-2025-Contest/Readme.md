@@ -1,5 +1,6 @@
-Author: Jai Rathinavel
-Contest Submission: Aug 2025 Fabric Notebook Contest
+**Author:** Jai Rathinavel
+
+**Contest Submission:** Aug 2025 Fabric Notebook Contest
 
 📖 Overview
 This repository contains a Microsoft Fabric notebook that launches an interactive user interface to refresh semantic models (formerly Power BI datasets) directly within the notebook environment. It leverages the semantic-link (sempy) and semantic-link-labs libraries to discover models across workspaces, manage refresh operations, and visualize the refresh trace logs.
