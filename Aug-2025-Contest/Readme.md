@@ -6,7 +6,7 @@
 
 This repository contains a Microsoft Fabric notebook that launches an interactive user interface to refresh semantic models (formerly Power BI datasets) directly within the notebook environment. It leverages the semantic-link (sempy) and semantic-link-labs libraries to discover models across workspaces, manage refresh operations, and visualize the refresh trace logs.
 
-I have created a UI template on top of the sempy frameworks, which you can finder under my "packages" repository.
+I have created a UI template on top of the sempy frameworks, which you can find under my "packages" repository.
 
 The main goal is to provide a user-friendly "app" experience for data professionals to perform and monitor targeted refreshes of tables and partitions without leaving their Fabric workspace.
 
