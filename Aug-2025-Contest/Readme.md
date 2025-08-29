@@ -22,15 +22,7 @@ Granular Refreshes: Select specific workspaces, models, tables, and even individ
 
 Advanced Options: Configure advanced settings for each refresh operation, such as:
 
-Refresh Type (Full, DataOnly, Calculate, etc.)
-
-Retry Count
-
-Max Parallelism
-
-Commit Mode
-
-Apply Refresh Policy
+Refresh Type, Retry Count, Max Parallelism, Commit Mode, Apply Refresh Policy
 
 Refresh Monitoring: Visualizes the SSAS trace output as a Gantt chart upon completion, showing the duration of each step.
 
