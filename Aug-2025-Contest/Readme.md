@@ -1,7 +1,7 @@
 Author: Jai Rathinavel
 Contest Submission: Aug 2025 Fabric Notebook Contest
 
-[LinkedIn]([url](https://www.linkedin.com/in/jai-rathinavel/))
+[LinkedIn]([https://www.linkedin.com/in/jai-rathinavel/])
 
 GitHub
 
